@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+tickets/*
+!tickets/.gitkeep
+*.pdf
+*.db
+.pytest_cache/
